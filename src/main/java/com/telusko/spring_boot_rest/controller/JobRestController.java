@@ -1,4 +1,4 @@
-package com.telusko.spring_boot_rest;
+package com.telusko.spring_boot_rest.controller;
 
 import com.telusko.spring_boot_rest.model.JobPost;
 import com.telusko.spring_boot_rest.service.JobService;
